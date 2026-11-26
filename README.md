@@ -48,7 +48,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/664e00711403ce0d92bfc418_54791d14-a97e-5277-a2e1-d1ea0b89c248.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp
 </div>
 
 ## Логи и мониторинги
@@ -57,16 +56,13 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
   <img src="https://avatars.githubusercontent.com/u/28545596?s=200&v=4" title="Jaeger" alt="Jaeger" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
 </div>
 
 ## Тестовая документация 
   <div>
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE_xHZGshOkorHgEqi5_RYY-9FF--XlOkS345qO15IExKfwFhAfPiyY-hylzpwILAUJcc&usqp=CAU" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
     <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
     <img src="https://play-lh.googleusercontent.com/ioJTF4OMDt2-x3Mnz_LEIHpoGjig_g7nfECiKsaFlvasBeo0myuKqnc6XHoItyL3OSE" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp
-    <img src="https://uploads.static.fo.vin/system/useruploads/images/660a/f8c5/a923/2223/c588/74ad/original/yonote.jpg?1711995077" title="Yonote" alt="Yonote" width="40" height="40"/>&nbsp
   </div>
 
 ## Работа с базами данных
@@ -79,12 +75,7 @@
 
 ## Автотесты
 <div>
-  <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" title="Actions" alt="Actions" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp
 </div>
 
@@ -95,12 +86,11 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/Middle-ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/DenisNezhnyansky-QA/DenisNezhnyansky-QA/refs/heads/main/Middle-ru.png)
-[<img src="/Recommendation-1.png" width="280px" hspace="10px" alt="Recommendation-1">](https://github.com/DenisNezhnyansky-QA/DenisNezhnyansky-QA/blob/main/Recommendation-1.png)
+
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:ne.den8@yandex.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nezhnyansky)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:roman.mishin93@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MESSI_711)
